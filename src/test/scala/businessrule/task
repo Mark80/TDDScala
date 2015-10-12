@@ -1,0 +1,16 @@
+
+
+* receive a payment
+
+     #PAYMENT FOR PRODUCT
+
+    * generate a packing slip for a phisical product
+    * create a Product
+    * a packing slip contain a list of product and single cost
+
+    * generate a duplicate of packing slip for  the royalty department if product is a book
+
+
+    #PAYMENT FOR MEMBERSHIP
+
+     ETC ...
